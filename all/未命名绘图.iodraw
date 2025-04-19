@@ -124,8 +124,8 @@
         <mxCell id="NQ6wGBAmcZWO7B4DkV19-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="940" width="1140" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="NQ6wGBAmcZWO7B4DkV19-52" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;数据库&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1025" width="80" height="30" as="geometry" />
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-52" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;运行环境&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1025" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NQ6wGBAmcZWO7B4DkV19-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="170" y="950" width="1010" height="170" as="geometry" />
