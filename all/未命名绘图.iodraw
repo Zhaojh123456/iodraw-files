@@ -115,7 +115,7 @@
         <mxCell id="NQ6wGBAmcZWO7B4DkV19-48" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;数据库&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="815" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NQ6wGBAmcZWO7B4DkV19-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="170" y="740" width="1010" height="170" as="geometry" />
         </mxCell>
       </root>
