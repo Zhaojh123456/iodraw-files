@@ -91,6 +91,24 @@
         <mxCell id="NQ6wGBAmcZWO7B4DkV19-40" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;。。。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645" y="412.5" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-41" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;内容管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="547.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-42" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;统计报表&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="622.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-43" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="547.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-44" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;系统日志&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="622.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-45" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;系统设置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="547.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQ6wGBAmcZWO7B4DkV19-46" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;。。。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="622.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
